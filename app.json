@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "VKU Room Booking Week 8 Starter",
+    "slug": "vku-room-booking-week8-starter",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}
